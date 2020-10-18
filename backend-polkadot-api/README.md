@@ -1,3 +1,3 @@
 # Run
 
-* node index.js- To view the details of the latest block
+* node api.js- To view the details of the latest block
